@@ -1,0 +1,4 @@
+- 👋 oi, meu nome é @andreiagermanocampos
+- 👀 eu estou aprendendo atualmente a programar jogos no scrach e em javascript
+- 🌱 tenho curiosidades em apender paginas na web
+- 💞️ tenho 17 anos
